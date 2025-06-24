@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+
+# Virtual env
+venv/
+env/
+
+# VSCode
+.vscode/
+
+# Env files
+.env
+
+# Compiled static files
+/staticfiles/
+/node_modules/
+/dist/
+/build/
